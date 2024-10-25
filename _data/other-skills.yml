@@ -1,0 +1,31 @@
+- name: Project Management
+  percentage: 85
+  color: success
+
+- name: IoT Systems Development
+  percentage: 80
+  color: info
+
+- name: PLC Ladder Logic Design
+  percentage: 75
+  color: warning
+
+- name: Technical Documentation
+  percentage: 90
+  color: primary
+
+- name: Research & Data Analysis
+  percentage: 80
+  color: secondary
+
+- name: Team Collaboration
+  percentage: 90
+  color: success
+
+- name: Embedded Systems Development
+  percentage: 85
+  color: danger
+
+- name: Cloud Computing (AWS Fundamentals)
+  percentage: 70
+  color: info

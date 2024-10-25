@@ -1,0 +1,31 @@
+- name: Electronics Design & Prototyping
+  percentage: 95
+  color: primary
+
+- name: C/C++ Programming
+  percentage: 90
+  color: danger
+
+- name: ROS (Robot Operating System)
+  percentage: 85
+  color: warning
+
+- name: CAD Design (SolidWorks)
+  percentage: 85
+  color: success
+
+- name: Python Programming
+  percentage: 80
+  color: info
+
+- name: Machine Learning & Computer Vision
+  percentage: 75
+  color: secondary
+
+- name: PCB Design
+  percentage: 90
+  color: primary
+
+- name: Linux
+  percentage: 80
+  color: warning
