@@ -8,6 +8,6 @@ description: layout and distribution of the entire electronics/electrical system
     - Optimized wiring layout to ensure reliability and ease of maintenance.
     - Collaborated with the mechanical team to integrate electronics seamlessly.
     - Conducted rigorous testing to ensure system stability in harsh environments.
-external_url: https://marsrovermanipal.com
+external_url: https://roverchallenge.eu/team/mars-rover-manipal-2025/
 
 ---
